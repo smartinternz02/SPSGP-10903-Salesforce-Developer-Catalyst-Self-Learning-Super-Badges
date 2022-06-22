@@ -1,5 +1,5 @@
 @isTest
-public with sharing class MMJhwmfTYJVFm9TiUdmYYyrf6Pzpzf3YN1 {
+public with sharing class MaintenanceRequestHelperTest {
     
     // createVehicle
     private static Vehicle__c createVehicle(){
